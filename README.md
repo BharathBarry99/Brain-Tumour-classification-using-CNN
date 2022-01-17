@@ -20,7 +20,7 @@ In this project,the model will take MRI images of the patient and determine whet
 Brain MRI Images for Brain Tumor Detection, the model will be trained and predict the images using the gui.
 
 
-Credits:- 
+# Credits:- 
 
 BHARATHRAJ S - Myself.
 
