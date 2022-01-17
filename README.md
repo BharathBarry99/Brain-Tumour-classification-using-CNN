@@ -23,4 +23,5 @@ Brain MRI Images for Brain Tumor Detection, the model will be trained and predic
 Credits:- 
 
 BHARATHRAJ S - Myself.
+
 PAAYAS P     - My friend, who helped me in this project by building the GUI for testing.
